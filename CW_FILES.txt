@@ -1,0 +1,11 @@
+untitled2.m - implements the neural network to find the inverse kinematics of the robot arm
+RevoluteForwardKinematics2D.m - calculates the forward kinematics of a 2-joint arm (particularly the end point)
+main.m - implements Q-learning
+findPathToEnd.m
+transitionMatrix.m
+transitionFunction.m
+getRandomUnblockedState.m
+rewardFunc.m
+plotArms.m
+plotEndPoints.m
+initQ.m
